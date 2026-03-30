@@ -1,0 +1,8 @@
+torch==2.7.1+cu118
+torchreid==0.2.5
+torchvision==0.22.1+cu118
+opencv-python==4.13.0.92
+numpy==2.2.6
+scipy==1.15.3
+ultralytics==8.4.15
+motmetrics==1.4.0
