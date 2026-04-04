@@ -36,7 +36,15 @@ Detection → Feature Extraction → Motion Prediction → Data Association → 
 
 ## Installation
 
-```bash
+Clone the repository:
+
+```
+git clone https://github.com/MahdisHassani/ReID-TrackNet.git
+```
+
+Install dependencies:
+
+```
 pip install -r requirements.txt
 ```
 
