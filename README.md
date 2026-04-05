@@ -38,8 +38,9 @@ Detection → Feature Extraction → Motion Prediction → Data Association → 
 
 Clone the repository:
 
-```
+```bash
 git clone https://github.com/MahdisHassani/ReID-TrackNet.git
+cd ReID-TrackNet
 ```
 
 Install dependencies:
